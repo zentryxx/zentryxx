@@ -1,11 +1,81 @@
-## Languages and Tools:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
+
+# iOS & SwiftUI Developer
+
+Building clean, practical and user-centered apps for Apple platforms.
+
+Focused on native iOS development, thoughtful UI/UX and real-world software projects.
+
+</div>
+
 <br>
-<img src="https://img.shields.io/badge/SwiftUI%20-1f74b5.svg?&style=for-the-badge&logo=Swift&logoColor=white">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core Technologies & Tools
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swift,java,spring,firebase,supabase,mysql,git,github,docker,gradle,maven,idea,xcode,claude&theme=dark&perline=7" alt="Core Technologies and Tools" />
+
+</div>
+
 <br>
-<img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Apple Development
+
+<div align="center">
+
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="58" alt="SwiftUI" title="SwiftUI" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="58" alt="SwiftData / Core Data" title="SwiftData / Core Data" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-96x96_2x.png" width="58" alt="CloudKit" title="CloudKit" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/mapkit/mapkit-96x96_2x.png" width="58" alt="MapKit" title="MapKit" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png" width="58" alt="HealthKit" title="HealthKit" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/tipkit/tipkit-96x96_2x.png" width="58" alt="TipKit" title="TipKit" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" width="58" alt="WidgetKit" title="WidgetKit" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="58" alt="Create ML" title="Create ML" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/foundationmodel/foundationmodel-256x256_2x.png" width="58" alt="Foundation Models" title="Foundation Models" />
+
+</div>
+
 <br>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=intellij%20idea&logoColor=white"/><img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"><img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+### Additional Apple Frameworks
+
+Vision & VisionKit · CoreLocation · AVFoundation
+
 <br>
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<img src="https://img.shields.io/badge/IOS%20-7877ed.svg?&style=for-the-badge&logo=IOS&logoColor=white"/>![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)<img src="https://img.shields.io/badge/Android%20-3DDD85.svg?&style=for-the-badge&logo=Android&logoColor=white"/>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<img src="https://img.shields.io/badge/Ubuntu%20-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+
+### Design
+
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1280px-Sketch_Logo.svg.png" width="64" alt="Sketch" title="Sketch" />
+
+</div>
+
 <br>
+
+## 🚀 Featured Project
+
+### ShelfSure — Swift Student Challenge Winner 2026 Project
+
+**ShelfSure** is an accessibility-focused iOS app that helps people with macular degeneration shop more independently by recognizing product and price information and reading it out loud.
+
+**Tech:** Swift · SwiftUI · Vision & VisionKit · SwiftData · AVFoundation · TipKit
+
+<br>
+
+## 🌱 Interests
+
+- Native Apple platform development
+- Clean and intuitive UI/UX
+- Practical software that solves real problems
